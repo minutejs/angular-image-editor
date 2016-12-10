@@ -1,0 +1,20 @@
+{
+  "name": "angular-image-editor",
+  "authors": [
+    "Sanchit <dev@minutephp.com>"
+  ],
+  "description": "simple angular js image editor",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "ng-image-cropper": "https://unpkg.com/angular-image-cropper/bower.zip"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
